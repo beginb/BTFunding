@@ -1,0 +1,100 @@
+Company Name,Sector,AorD,Amount (in millions),Date
+SynthRx,Medical devices,A,10.3,9/4/23
+BioTechniQ,Industrial biotechnology,A,15.3,9/26/23
+Cellulitix,Gene therapy,D,0,9/10/23
+ImmunEase,Diagnostics,A,0.5,9/16/23
+AgroSyn,Personalized medicine,D,0,9/28/23
+BioCure,Regenerative medicine,D,0,9/24/23
+BioDyamix,Synthetic biology,A,54.3,9/22/23
+CeliScan,Biotech research and development,D,0,9/9/23
+ReproGene,Environmental biotechnology,A,98.2,9/20/23
+Metabolikos,Stem cell research,D,,9/7/23
+GenoGrowth,Animal health,A,59.1,9/19/23
+ImmunoBurst,Biomanufacturing,A,23.6,9/18/23
+NerveGenix,Agricultural biotechnology,D,0,9/23/23
+Nanopresis,Biopharmaceuticals,A,48.2,9/1/23
+BioProdigy,Industrial biotechnology,D,0,9/5/23
+Heliotherapeutics,Regenerative medicine,D,0,9/30/23
+AxiomX,Synthetic biology,A,75.2,9/17/23
+EpiCare,Biomanufacturing,D,0,9/8/23
+ProkaryoBiotech,Personalized medicine,A,57.3,9/14/23
+ImmunOasis,Biopharmaceuticals,D,0,9/15/23
+RiboNexus,Gene therapy,A,92.1,9/13/23
+GenoFoundry,Environmental biotechnology,A,32.1,9/25/23
+EndoLife,Diagnostics,A,58.2,9/27/23
+MetaBiologics,Stem cell research,D,0,9/2/23
+BioGlint,Agricultural biotechnology,D,0,9/6/23
+GlycoTreat,Animal health,A,59.6,9/3/23
+CarboLogic,Biotech research and development,D,,9/12/23
+OncoGene,Regenerative medicine,A,43.9,9/21/23
+Biomoluxe,Biomanufacturing,A,29.2,9/11/23
+GeneTechs,Personalized medicine,A,19.2,9/29/23
+Synthexx,Industrial biotechnology,A,0.9,9/2/23
+Regenova,Synthetic biology,A,41.6,9/19/23
+CelluVision,Biopharmaceuticals,D,0,9/13/23
+BioModulus,Diagnostics,D,0,9/23/23
+BioOptix,Environmental biotechnology,D,0,9/12/23
+Cognitix,Gene therapy,D,0,9/8/23
+LipoLuxe,Agricultural biotechnology,A,19.2,9/11/23
+Immunodev,Stem cell research,D,0,9/20/23
+TruGene,Biomanufacturing,A,12.6,9/22/23
+VitalBio,Biotech research and development,D,0,9/26/23
+Neurotechs,Regenerative medicine,A,29.1,9/27/23
+Intelligenetix,Personalized medicine,D,0,9/4/23
+ImmuNox,Industrial biotechnology,D,0,9/18/23
+GeneFusion,Synthetic biology,D,0,9/1/23
+MycoLogic,Biopharmaceuticals,D,0,9/28/23
+NanoRx,Environmental biotechnology,A,53.1,9/24/23
+Cardiobio,Gene therapy,A,4.2,9/10/23
+BioLipid,Diagnostics,A,9.5,9/7/23
+GenoVantage,Agricultural biotechnology,A,5.8,9/6/23
+SynthetixBio,Biomanufacturing,A,9.2,9/15/23
+EpiGenomeX,Personalized medicine,A,2.5,9/3/23
+BioProx,Regenerative medicine,D,0,9/16/23
+OncoTherix,Industrial biotechnology,D,0,9/5/23
+Synergenetix,Synthetic biology,A,9.4,9/29/23
+CelluSynth,Biotech research and development,D,0,9/21/23
+EndoDynamics,Animal health,A,8.2,9/14/23
+ImmunoPhase,Stem cell research,D,0,9/9/23
+Ribocule,Biopharmaceuticals,A,13.2,9/17/23
+GenoFlex,Diagnostics,D,0,9/30/23
+ModuloBio,Environmental biotechnology,D,0,9/25/23
+BioPetide,Gene therapy,D,0,9/28/23
+Glycologic,Biomanufacturing,D,0,9/3/23
+TruTech,Personalized medicine,A,16.9,9/11/23
+Neuromind,Regenerative medicine,A,29.3,9/19/23
+ImmunoLab,Industrial biotechnology,A,60.2,9/22/23
+GeneRise,Biotech research and development,A,98.1,9/20/23
+SynthionX,Synthetic biology,D,0,9/4/23
+BioElite,Agricultural biotechnology,D,0,9/12/23
+Regenerex,Stem cell research,D,0,9/8/23
+NanoBio,Biopharmaceuticals,D,0,9/5/23
+ViraBiotech,Diagnostics,D,0,9/26/23
+BioMembrane,Environmental biotechnology,A,42.1,9/6/23
+GenoDynamics,Gene therapy,A,23.9,9/14/23
+SynthetixLife,Biomanufacturing,D,0,9/27/23
+EpiGeneX,Regenerative medicine,D,0,9/1/23
+Lipidix,Personalized medicine,A,59.5,9/18/23
+Immunovant,Industrial biotechnology,D,0,9/13/23
+GeneWorx,Synthetic biology,D,0,9/24/23
+MycoTech,Biotech research and development,D,0,9/2/23
+CelluGen,Animal health,A,100.3,9/15/23
+OncoSynth,Stem cell research,A,5.3,9/7/23
+BioMotive,Biopharmaceuticals,D,0,9/9/23
+SynergyBio,Diagnostics,A,60.3,9/17/23
+EndoCure,Agricultural biotechnology,D,0,9/24/23
+ImmunoQuest,Regenerative medicine,A,3.2,9/21/23
+Ribogenix,Personalized medicine,A,9.9,9/15/23
+GenoSpark,Industrial biotechnology,A,20.1,9/16/23
+ModuloGen,Gene therapy,D,0,9/26/23
+BioLumix,Biomanufacturing,D,0,9/22/23
+GlycoLogic,Environmental biotechnology,A,25.3,9/7/23
+TruPath,Biotech research and development,D,0,9/27/23
+Neurosynth,Synthetic biology,A,15.7,9/23/23
+ImmunoLink,Stem cell research,D,0,9/11/23
+GeneWell,Biopharmaceuticals,D,0,9/5/23
+SynthetixGen,Agricultural biotechnology,A,58.5,9/17/23
+BioNexus,Personalized medicine,A,20.4,9/30/23
+Regenix,Diagnostics,D,0,9/28/23
+NanoGenix,Industrial biotechnology,D,0,9/7/23
+ViroPharm,Regenerative medicine,D,0,9/2/23
